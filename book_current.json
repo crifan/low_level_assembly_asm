@@ -1,0 +1,19 @@
+{
+  "title": "底层编程语言：汇编语言asm",
+  "description": "介绍编程语言中，相对底层的汇编语言，简称asm。",
+  "pluginsConfig": {
+    "github-buttons": {
+      "buttons": [
+        {
+          "repo": "low_level_assembly_asm"
+        }
+      ]
+    },
+    "sitemap-general": {
+      "prefix": "https://book.crifan.org/books/low_level_assembly_asm/website/"
+    },
+    "toolbar-button": {
+      "url": "https://book.crifan.org/books/low_level_assembly_asm/pdf/low_level_assembly_asm.pdf"
+    }
+  }
+}
