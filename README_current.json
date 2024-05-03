@@ -1,6 +1,6 @@
 {
-  "latestVersion": "v0.4",
-  "lastUpdate": "20240306",
+  "latestVersion": "v1.0",
+  "lastUpdate": "20240430",
   "gitRepoName": "low_level_assembly_asm",
   "bookName": "底层编程语言：汇编语言asm",
   "bookDescription": "介绍编程语言中，相对底层的汇编语言，简称asm。"
